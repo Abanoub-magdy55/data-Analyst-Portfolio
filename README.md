@@ -200,10 +200,8 @@ Data Modeling & Analysis: DAX | Calculated Columns | Measures | Trend Analysis
 
 📫 Contact
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abanoub-magdy-913510248/)
 
-Email: YOUR_EMAIL
-
-GitHub: My GitHub Profile
+Email: abanoubmagdy869@gmail.com
 
 ⭐ Thank you for visiting my portfolio!
