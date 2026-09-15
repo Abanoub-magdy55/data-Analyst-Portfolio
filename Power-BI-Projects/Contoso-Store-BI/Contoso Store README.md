@@ -37,8 +37,6 @@ Created dynamic DAX measures.
 
 Built interactive visualizations and filters.
 
-📷 Dashboard Preview
-
 💻 Power BI File
 
 The dashboard was developed using Power BI Desktop.
