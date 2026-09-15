@@ -1,15 +1,11 @@
 📊 Contoso Store BI Report
 Project Overview
 
-An interactive Power BI dashboard developed to analyze Contoso Store's sales performance across products, geography, and time.
-
-🎯 Business Objective
-
-The objective of this project was to create an executive-friendly dashboard that provides visibility into key sales and performance indicators and supports data-driven decision-making.
+An interactive Power BI dashboard developed to analyze sales performance across products, geography, and time.
 
 🛠️ Tools Used
 
-Power BI
+Power BI Desktop
 
 DAX
 
@@ -29,26 +25,24 @@ Product Performance
 
 Regional Performance
 
-🔍 Analysis Performed
+🔍 Analysis
 
 Analyzed sales performance across product categories.
 
-Compared performance across geographic regions.
+Compared regional performance.
 
 Evaluated multi-year sales trends.
 
-Created dynamic DAX measures for KPI analysis.
+Created dynamic DAX measures.
 
-Designed interactive visualizations and filters.
-
-Developed an executive-focused reporting experience.
+Built interactive visualizations and filters.
 
 📷 Dashboard Preview
 
-🔗 Live Dashboard
+💻 Power BI File
 
-View Power BI Dashboard
+The dashboard was developed using Power BI Desktop.
 
 💡 Skills Demonstrated
 
-Power BI | DAX | Power Query | Data Modeling | KPI Development | Data Visualization | Business Intelligence | Trend Analysis
+Power BI | DAX | Power Query | Data Modeling | KPI Analysis | Data Visualization | Business Intelligence
