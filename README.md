@@ -51,7 +51,7 @@ Dynamic DAX measures
 
 Interactive reporting
 
-🔗 View Project
+🔗 [View Project](./Power-BI-Projects/Contoso-Store-BI/)
 
 2. Customer Churn Analysis
 
