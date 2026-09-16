@@ -95,7 +95,7 @@ Regional performance
 
 Cost-benefit analysis
 
-🔗 View Project
+🔗 [View Project](./Power-BI-Projects/Project-Management-Dashboard/)
 
 4. Social Media Analytics Dashboard
 
