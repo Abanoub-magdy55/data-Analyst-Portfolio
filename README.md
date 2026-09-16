@@ -147,7 +147,7 @@ Tools: Excel | Power Query
 
 Dashboard analyzing digital wallet transactions, revenue, payment categories, device usage, and transaction success rates.
 
-🔗 View Project
+🔗 [View Project](./Excel-Projects/Tri-Stars-Sales/)
 
 7. Human Resources Analytics Dashboard
 
