@@ -138,7 +138,7 @@ Average Discount
 
 Profit Margin
 
-🔗 View Project
+🔗 [View Project](./Excel-Projects/Tri-Stars-Sales/)
 
 6. Digital Wallet Transaction Dashboard
 
