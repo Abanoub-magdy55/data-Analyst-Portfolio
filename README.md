@@ -155,7 +155,7 @@ Tools: Excel | Power Query
 
 Dashboard analyzing workforce distribution, salary, training hours, and employee performance.
 
-🔗 View Project
+[View Project](./Excel-Projects/HR-Analytics/)
 
 8. Bike Sales Dashboard
 
