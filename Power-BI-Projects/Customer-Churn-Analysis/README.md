@@ -71,18 +71,6 @@ Created interactive visuals and filters allowing users to analyze churn from dif
 
 Developed DAX measures and calculated columns to support KPI calculations and analytical insights.
 
----
-
-## 📷 Dashboard Preview
-
-![Customer Churn Dashboard](dashboard.png)
-
----
-
-## 🔗 Project Files
-
-**Power BI Dashboard:**
-[View Power BI Dashboard](YOUR_POWER_BI_LINK)
 
 ---
 
