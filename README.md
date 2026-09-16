@@ -73,7 +73,7 @@ Calculated columns
 
 DAX measures
 
-🔗 View Project
+🔗 [View Project](./Power-BI-Projects/Customer-Churn-Analysis/)
 
 3. Project Management Dashboard
 
