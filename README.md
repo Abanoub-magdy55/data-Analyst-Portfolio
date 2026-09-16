@@ -120,6 +120,7 @@ Weekly performance
 🔗 [View Project](./Power-BI-Projects/Social-Media-Analytics/)
 
 📈 Excel Projects
+
 5. Tri-Stars Sales Performance Dashboard
 
 Tools: Excel | Power Query
