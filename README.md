@@ -163,7 +163,7 @@ Tools: Excel | Power Query
 
 Dashboard analyzing bike sales trends, regional performance, and top-selling models.
 
-🔗 View Project
+🔗 [View Project](./Excel-Projects/Bike-Sales/)
 
 9. Vrinda Store Dashboard
 
