@@ -187,7 +187,7 @@ Tools: Excel | Power Query
 
 HR report analyzing employee productivity, experience levels, and salary distribution.
 
-🔗 View Project
+🔗 [View Project](./Excel-Projects/HR-Report/)
 
 📌 Featured Skills
 
