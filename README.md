@@ -171,7 +171,7 @@ Tools: Excel | Power Query
 
 Dashboard analyzing sales trends, customer demographics, product categories, regional performance, and order fulfillment.
 
-🔗 View Project
+🔗 [View Project](./Excel-Projects/Vrinda-Store/)
 
 10. Global Company Dashboard
 
