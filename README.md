@@ -179,7 +179,7 @@ Tools: Excel | Power Query
 
 Logistics dashboard analyzing shipping performance, delivery metrics, and costs across multiple countries.
 
-🔗 View Project
+🔗 [View Project](./Excel-Projects/Global-Company/)
 
 11. HR Report
 
