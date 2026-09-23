@@ -80,12 +80,6 @@ Developed DAX measures and calculated columns to support KPI calculations and an
 
 ---
 
-## 📁 Project Structure
 
-```text
-Customer-Churn-Analysis
-│
-├── README.md
-└── dashboard.png
 ```
 
