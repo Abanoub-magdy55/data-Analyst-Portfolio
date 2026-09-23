@@ -201,7 +201,7 @@ Data Modeling & Analysis: DAX | Calculated Columns | Measures | Trend Analysis
 
 📫 Contact
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abanoub-magdy-913510248/)
+LinkedIn: (https://www.linkedin.com/in/abanoub-magdy-913510248/)
 
 Email: abanoubmagdy869@gmail.com
 
